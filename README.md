@@ -31,3 +31,11 @@ Desenvolvimento de Api Rest com Java 17 e spring boot.
   <li>Simular requisições com Insomnia.</li>
   
 </ol>
+
+<h2>Etapa 1</h2>
+<p>Acessar o site start.spring.io e Baixar o arquivo zip com as configurações:</p>
+<p>Project: Maven.</p>
+<p>Language: Java.</p>
+<p>Spring Boot: versão 3.1.1.</p>
+<p>Packaging: Jar.</p>
+<p>Java: 17.</p>
